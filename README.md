@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# dz-use-json-fetch-front
+
+[![Build status](https://ci.appveyor.com/api/projects/status/a4ik7gksk08fm822?svg=true)](https://ci.appveyor.com/project/pvova21/dz-use-json-fetch-front)
+
+## [GitHub Pages](https://pvova21.github.io/dz-use-json-fetch-front/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
